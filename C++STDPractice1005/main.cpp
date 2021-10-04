@@ -12,6 +12,5 @@ int main(void)
 		v->Update();
 	}
 
-
 	return 1;
 }
